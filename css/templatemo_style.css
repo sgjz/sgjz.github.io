@@ -1,6 +1,6 @@
 /* Credit: http://www.cssmoban.com */
 *{
-  font-family: "微软雅黑";
+  font-family: "微软雅黑"!important ;
 }
 
 .site-header .main-navigation ul, .services #icons ul, .about #icons-about ul {
